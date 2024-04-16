@@ -1127,6 +1127,15 @@ export const Showcases = [
     source: null,
     tags: ["lending", "token", "marketplace", "nftsupport"],
   },
+  {
+    title: "Stargazer",
+    description:
+      "Stargazer is a DeFi Yield Optimizer for Cardano",
+    preview: require("./showcase/stargazer.png"),
+    website: "https://www.stargazer.finance/",
+    source: null,
+    tags: ["lending", "marketplace", "dex"],
+  },
 ];
 
 export const TagList = Object.keys(Tags);
